@@ -9,7 +9,7 @@
 In order to run, you must have the latest version of VS Code, Node >= 14.0.0 and npm >= 5.6 installed on your machine.
 
 1. Download this solution as a ZIP and Un-zip or clone the repo to a local directory.
-2. Navigate to folder in VS Code.
+2. Navigate to folder in your editor of choice.
 3. Repeat the following for both the frontend and backend folders:
    - In the terminal: "npm i". This will install all dependencies.
    - In the terminal: "npm run test". This will run the test suite and validate that everything is working correctly.
