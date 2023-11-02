@@ -28,7 +28,7 @@ export const getMedianPrimeNumbers = async (req: Request, res: Response) => {
 }
 
 //Implements Sieve of Eratosthenes algorithm
-function generatePrimesLessThanN(num: number) {
+function generatePrimesLessThanN(num: number): number[] {
 	const isPrime = new Array(num).fill(true)
 	isPrime[0] = isPrime[1] = false
 
