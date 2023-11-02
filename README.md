@@ -19,4 +19,4 @@ Note: To stop running local instance, "CTRL + C" in the terminal to stop instanc
 
 ### About me
 
-I have 2 years of production experience with both Node and React. I set up this project in a way that in can be expanded on the make a proper production application (with some minor modifications). 
+I have 2 years of professional experience working with both Node.js and React. I've structured this project in a way that allows for seamless expansion, requiring only minor modifications to transform it into a fully-fledged production application.
