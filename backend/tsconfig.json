@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"lib": ["es6"],
+		"module": "commonjs",
+		"resolveJsonModule": true,
+		"allowJs": true,
+		"outDir": "build",
+		"esModuleInterop": true,
+		"moduleResolution": "node",
+		"forceConsistentCasingInFileNames": true,
+		"strict": true,
+		"noImplicitAny": true,
+		"skipLibCheck": true,
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"typeRoots": ["./src/types", "./node_modules/@types"]
+	},
+	"include": ["**/*.ts"],
+	"exclude": ["node_modules"]
+}
